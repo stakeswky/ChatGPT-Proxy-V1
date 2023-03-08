@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/stakeswky/ChatGPT-Proxy-V1/internal/types"
+	"github.com/acheong08/ChatGPT-V2/internal/types"
 
 	"github.com/gin-gonic/gin"
 )
